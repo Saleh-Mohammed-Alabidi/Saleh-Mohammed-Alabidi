@@ -66,4 +66,4 @@
 ### 📫 Let’s Connect
 
 - GitHub: [@salehalabidi](https://github.com/salehalabidi)
-- Email: your.email@example.com
+- Email: saleh.m.alabidi@gmail.com
