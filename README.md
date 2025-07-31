@@ -69,7 +69,7 @@
 - 🧱 Clean Architecture, Hexagonal Architecture  
 - 🎯 Domain-Driven Design (DDD)  
 - 🔥 Microservices
-- ⚡ High-Performance NoSQL & In-Memory Databases (MongoDB, Redis)  
+- ⚡ High-Performance DataBase & In-Memory Databases (Redis)  
 - 🧪 Testing: Unit, Integration, and API  
 - 🚀 DevOps: Dockerized Environments, GitHub Actions
 
