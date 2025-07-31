@@ -59,7 +59,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" /><br>Redis
     </td>
      <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Apache_Kafka_logo.svg" width="40" alt="Kafka" /><br>Kafka
+      <img src="[https://upload.wikimedia.org/wikipedia/commons/8/88/Apache_Kafka_logo.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg)" width="40" alt="Kafka" /><br>Kafka
     </td>
   </tr>
 </table>
