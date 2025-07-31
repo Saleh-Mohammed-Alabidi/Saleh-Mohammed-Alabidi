@@ -21,9 +21,6 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /><br>C#
-    </td>
-    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" /><br>ASP.NET Core
     </td>
     <td align="center" width="100">
@@ -61,6 +58,9 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" /><br>Redis
     </td>
+     <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Apache_Kafka_logo.svg" width="40" alt="Kafka" /><br>Kafka
+    </td>
   </tr>
 </table>
 
@@ -70,7 +70,7 @@
 
 - 🧱 Clean Architecture, Hexagonal Architecture  
 - 🎯 Domain-Driven Design (DDD)  
-- 🔥 Microservices & Distributed Systems  
+- 🔥 Microservices
 - ⚡ High-Performance NoSQL & In-Memory Databases (MongoDB, Redis)  
 - 🧪 Testing: Unit, Integration, and API  
 - 🚀 DevOps: Dockerized Environments, GitHub Actions
