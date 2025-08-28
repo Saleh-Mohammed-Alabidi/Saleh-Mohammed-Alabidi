@@ -80,3 +80,5 @@
 
 - GitHub: [@salehalabidi](https://github.com/salehalabidi)
 - Email: saleh.m.alabidi@gmail.com
+- Linkedin: https://www.linkedin.com/in/saleh-mohammed-alabidi/
+- Portfolio: https://saleh-alabidi.b-cdn.net/
