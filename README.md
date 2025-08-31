@@ -41,9 +41,7 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40" /><br>Nuxt.js
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /><br>Docker
-    </td>
+ 
   </tr>
   <tr>
     <td align="center" width="100">
@@ -64,7 +62,9 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" /><br>Redis
     </td>
-    
+       <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /><br>Docker
+    </td>
   </tr>
 </table>
 
