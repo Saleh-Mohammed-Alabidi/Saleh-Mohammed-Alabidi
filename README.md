@@ -77,7 +77,7 @@
 - 🔥 Microservices
 - ⚡ High-Performance DataBase & In-Memory Databases (Redis)  
 - 🧪 Testing: Unit, Integration, and API  
-- 🚀 DevOps: Dockerized Environments, GitHub Actions
+- 🚀 DevOps: Dockerized Environments, GitHub Actions, CI/CD
 
 ---
 
